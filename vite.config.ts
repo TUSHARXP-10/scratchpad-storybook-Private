@@ -4,9 +4,21 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/",
   server: {
-    host: "::",
+    host: true,
     port: 8080,
+    hmr: {
+      host: "localhost",
+      port: 8080,
+    },
+  },
+  build: {
+    rollupOptions: {
+      input: {
+        main: path.resolve(__dirname, 'index.html'),
+      },
+    },
   },
   plugins: [react()],
   resolve: {
