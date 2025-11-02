@@ -202,14 +202,12 @@ This project demonstrates professional frontend development skills. While it's p
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
+## 📞 - **Portfolio**:  
+https://github.com/TUSHARXP-10/
+- **Email**: tusharchandane8@gmail.com
 
 ---
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by Tushar R Chandane**
 
 *This project showcases modern frontend development practices, clean code architecture, and attention to user experience. Perfect for demonstrating React, TypeScript, and modern web development skills to potential employers.*
